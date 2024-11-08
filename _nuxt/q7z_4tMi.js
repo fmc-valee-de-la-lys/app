@@ -1,0 +1,1 @@
+import{k as t,c as n,e as r,B as c}from"./VZkQIFbQ.js";const s={},o={class:"banniere h-52 bg-blue-800 text-center text-2xl flex m-0 font-bold text-white tracking-wider justify-center lg:text-4xl px-8"};function a(e,l){return n(),r("header",o,[c(e.$slots,"default")])}const i=t(s,[["render",a]]);export{i as default};

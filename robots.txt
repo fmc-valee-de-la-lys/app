@@ -1,0 +1,5 @@
+# START nuxt-robots (indexable)
+User-agent: *
+
+Sitemap: https://fmc-valee-de-la-lys-app.nuxt.space/sitemap.xml
+# END nuxt-robots
