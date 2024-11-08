@@ -9,6 +9,9 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     '@nuxt/image',
   ],
+  site: {
+    url: "https://fmc-valee-de-la-lys-app.nuxt.space/"
+  }, 
   fonts: {
     provider: 'google',
     defaults: {
