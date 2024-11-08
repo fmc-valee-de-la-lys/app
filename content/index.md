@@ -1,9 +1,18 @@
-# Nuxt Content
+::banniere
+Formation médicale continue de la Vallée de la Lys
+::
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
+::zone-libre
 
----
+  ::image{ alt="medecins travaillant ensemble autour d'un pc" src="/reunion-clinique-medecins.webp" }
+  ::
 
-Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+  ::liens
+  ::
+
+  ## Abonnez-vous à notre Newsletter pour recevoir les dates des FMC
+ ::champ-souscrire
+ ::
+
+::
